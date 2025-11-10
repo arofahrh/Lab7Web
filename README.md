@@ -30,7 +30,7 @@ Buatlah program PHP sederhana dengan **form input** untuk:
 
 ### 2. Hasil Output
 <img width="2879" height="1119" alt="image" src="https://github.com/user-attachments/assets/508b78aa-e802-4bd3-b001-db17024227e5" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/81db0d9a-4e40-42b5-b850-e451f88a5961" />
+<img width="2879" height="1313" alt="image" src="https://github.com/user-attachments/assets/af327d1b-7914-46b4-bd57-927f2f67f648" />
 
 
 ---
@@ -38,8 +38,7 @@ Buatlah program PHP sederhana dengan **form input** untuk:
 ## Langkah Praktikum
 
 1. **Install & Jalankan XAMPP**  
-  <img width="2879" height="1313" alt="image" src="https://github.com/user-attachments/assets/af327d1b-7914-46b4-bd57-927f2f67f648" />
-
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/81db0d9a-4e40-42b5-b850-e451f88a5961" />
 
 2. **Buat File PHP Pertama**  
   <img width="1389" height="771" alt="image" src="https://github.com/user-attachments/assets/d3276cdf-24da-46b9-b53f-09ee73a299fc" />
