@@ -7,10 +7,14 @@
 	nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung
 	umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
 	berbeda-beda sesuai pilihan pekerjaan.
-Link url : http://localhost/Lab7_php_dasar/tugas7.php
+
 <img width="2879" height="1031" alt="image" src="https://github.com/user-attachments/assets/0d0049cf-e679-444c-b441-d5284a11b60a" />
 <img width="2879" height="1119" alt="image" src="https://github.com/user-attachments/assets/a7291a5c-b806-496e-be84-648b89886da8" />
-<img width="2879" height="1313" alt="image" src="https://github.com/user-attachments/assets/8bb490bc-ff79-4942-bbcb-30e6f2242258" />
+<img width="2879" height="1313" alt="image" src="https://github.com/user-attachments/assets/8bb490bc-ff79-4942-bbcb-30e6f2242258" />  
+
+Link Akses:
+http://localhost/Lab7_php_dasar/tugas7.php
+
 - LANGKAH-LANGKAH PRAKTIKUM
   
 1. Install XAMPP, dan menjalankan Web Server
